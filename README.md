@@ -1,5 +1,7 @@
 # aho-manage-system
 
+## 基于vue和element的中北二手交易 后台管理项目
+
 ## Project setup
 ```
 npm install
